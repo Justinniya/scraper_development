@@ -1,0 +1,46 @@
+{
+  "start_time": "3:00 PM",
+  "end_time": "",
+  "check_out": "",
+  "interaction_preferences": "I won’t be available in person, and prefer communicating through the app.",
+  "direction": "wazzaup",
+  "check_in": {
+    "check_in_method": {
+      "name": "Keypad",
+      "details": "haha\n"
+    },
+    "check_in_instruction": {
+      "check_in_instruction_number_1": "1",
+      "check_in_instruction_number_2": "11"
+    }
+  },
+  "wifi_details": {
+    "wifi_network_name": "wif nam is",
+    "wifi_network_password": "12345"
+  },
+  "home_manual": "hi everbody",
+  "house_rules": {
+    "petsAllowed": "0",
+    "eventsallowed": "false",
+    "smoking_allowed": "false",
+    "quiet_hours": "false",
+    "commercial_photography": "false",
+    "number_of_guest": "4",
+    "check_in_and_out": {
+      "start_time": "3:00 PM",
+      "end_time": "",
+      "check_out": ""
+    },
+    "addtional_rules": ""
+  },
+  "checkout_instruction": {
+    "checkout_instruction_number_1": {
+      "name": "Gather used towels",
+      "instruction": "wqe"
+    },
+    "checkout_instruction_number_2": {
+      "name": "Return keys",
+      "instruction": "hahhaha gani main"
+    }
+  }
+}
